@@ -31,39 +31,53 @@ Please review the following information regarding the Botium Toys internal audit
 </p>
 
 
-Goals:
-●	Adhere to the NIST CSF.
-●	Establish a better process for their systems to ensure they are compliant. 
-●	Fortify system controls.
-●	Adapt to the concept of least permissions when it comes to user credential management. 
-●	Establish their policies and procedures, which includes their playbooks. 
-●	Ensure they are meeting compliance requirements.
+<b>Goals:</b>
+
+<ul>
+  
+<li>	Adhere to the NIST CSF. </li>
+<li>	Establish a better process for their systems to ensure they are compliant. </li>
+<li>	Fortify system controls. </li>
+<li>	Adapt to the concept of least permissions when it comes to user credential management. </li>
+<li>	Establish their policies and procedures, which includes their playbooks. </li>
+<li>	Ensure they are meeting compliance requirements. </li>
+
+</ul>
+
+<b> Critical findings </b> (must be addressed immediately): 
+
+<ul>
+<li>		Multiple controls need to be developed and implemented to meet the audit goals, including:
+
+  <ul>	
+    <li>		Control of Least Privilege and Separation of Duties </li>
+<li>		Disaster recovery plans </li>
+<li>		Password, access control, and account management policies, including the implementation of a password management system </li>
+<li>		Encryption (for secure website transactions) </li>
+<li>		IDS </li>
+<li>		Backups </li>
+<li>		AV software </li>
+<li>		CCTV </li>
+<li>		Locks </li>
+<li>		Manual monitoring, maintenance, and intervention for legacy systems </li>
+<li>		Fire detection and prevention systems </li>
+<li>		Policies need to be developed and implemented to meet PCI DSS and GDPR compliance requirements.</li>
+<li>		Policies need to be developed and implemented to align to SOC1 and SOC2 guidance related to user access policies and overall data safety.  </li>
+
+</ul>
+</ul>
+
+<b>Findings </b> (should be addressed, but no immediate need): 
+<ul>
+<li>		The following controls should be implemented when possible: </li>
+<li>		Time-controlled safe</li>
+<li>		Adequate lighting</li>
+<li>		Locking cabinets</li>
+<li>		Signage indicating alarm service provider</li>
+</ul>
+</ul>
 
 
-
-Critical findings (must be addressed immediately): 
-●	Multiple controls need to be developed and implemented to meet the audit goals, including:
-○	Control of Least Privilege and Separation of Duties
-○	Disaster recovery plans
-○	Password, access control, and account management policies, including the implementation of a password management system
-○	Encryption (for secure website transactions)
-○	IDS
-○	Backups
-○	AV software
-○	CCTV
-○	Locks
-○	Manual monitoring, maintenance, and intervention for legacy systems
-○	Fire detection and prevention systems
-●	Policies need to be developed and implemented to meet PCI DSS and GDPR compliance requirements.
-●	Policies need to be developed and implemented to align to SOC1 and SOC2 guidance related to user access policies and overall data safety. 
-
-Findings (should be addressed, but no immediate need): 
-●	The following controls should be implemented when possible:
-○	Time-controlled safe
-○	Adequate lighting
-○	Locking cabinets
-○	Signage indicating alarm service provider
-
-Summary/Recommendations: It is recommended that critical findings relating to compliance with PCI DSS and GDPR be promptly addressed since Botium Toys accepts online payments from customers worldwide, including the E.U. Additionally, since one of the goals of the audit is to adapt to the concept of least permissions, SOC1 and SOC2 guidance related to user access policies and overall data safety should be used to develop appropriate policies and procedures. Having disaster recovery plans and backups is also critical because they support business continuity in the event of an incident. Integrating an IDS and AV software into the current systems will support our ability to identify and mitigate potential risks, and could help with intrusion detection, since existing legacy systems require manual monitoring and intervention. To further secure assets housed at Botium Toys’ single physical location, locks and CCTV should be used to secure physical assets (including equipment) and to monitor and investigate potential threats. While not necessary immediately, using encryption and having a time-controlled safe, adequate lighting, locking cabinets, fire detection and prevention systems, and signage indicating alarm service provider will further improve Botium Toys’ security posture.
+<b>Summary/Recommendations: </b> It is recommended that critical findings relating to compliance with PCI DSS and GDPR be promptly addressed since Botium Toys accepts online payments from customers worldwide, including the E.U. Additionally, since one of the goals of the audit is to adapt to the concept of least permissions, SOC1 and SOC2 guidance related to user access policies and overall data safety should be used to develop appropriate policies and procedures. Having disaster recovery plans and backups is also critical because they support business continuity in the event of an incident. Integrating an IDS and AV software into the current systems will support our ability to identify and mitigate potential risks, and could help with intrusion detection, since existing legacy systems require manual monitoring and intervention. To further secure assets housed at Botium Toys’ single physical location, locks and CCTV should be used to secure physical assets (including equipment) and to monitor and investigate potential threats. While not necessary immediately, using encryption and having a time-controlled safe, adequate lighting, locking cabinets, fire detection and prevention systems, and signage indicating alarm service provider will further improve Botium Toys’ security posture.
 
 
