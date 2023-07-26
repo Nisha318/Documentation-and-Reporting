@@ -22,7 +22,6 @@ Assets managed by the IT Department include: <br>
 </p>
 
 
-
 <h3>Administrative Controls</h3>
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/administrative%20controls.PNG">
 
@@ -33,5 +32,6 @@ Assets managed by the IT Department include: <br>
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/physical%20controls.PNG">
 
 
-
+<h3>Compliance Checklist</h3> <br>
+- [x] Task 1
 
