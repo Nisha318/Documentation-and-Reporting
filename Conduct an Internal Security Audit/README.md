@@ -1,6 +1,6 @@
 <h3>Security Audit Checklist</h3>
 
-<b>Identify the scope of the audit</b> <br>
+<a href="https://github.com/Nisha318/Documentation-and-Reporting/blob/main/Conduct%20an%20Internal%20Security%20Audit/Audit%20Scope%20and%20Goals.md"><b>Identify the scope of the audit</b></a> <br>
 •	The audit should:
 
 <ul style="list-style-type: circle">
