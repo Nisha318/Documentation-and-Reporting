@@ -1,7 +1,6 @@
-Stakeholder memorandum exemplar
 
-TO: IT Manager, stakeholders
-FROM: (Your Name)
+TO: IT Manager, stakeholders 
+FROM: Nisha Prudhomme
 DATE: (Today’s Date)
 SUBJECT: Internal IT audit findings and recommendations
 
@@ -11,7 +10,7 @@ Please review the following information regarding the Botium Toys internal audit
 
 
 Scope: 
-●	The following systems are in scope: accounting, end point detection, firewalls, intrusion detection system, SIEM tool. The systems will be evaluated for:
+●	The following systems are in scope: accounting, endpoint detection, firewalls, intrusion detection system, SIEM tool. The systems will be evaluated for:
 ○	Current user permissions 
 ○	Current implemented controls
 ○	Current procedures and protocols
