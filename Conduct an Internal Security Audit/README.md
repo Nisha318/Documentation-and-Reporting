@@ -11,7 +11,7 @@
 
 </ul>
 
-<b>Complete a risk assessment</b><br>
+<a href="https://github.com/Nisha318/Documentation-and-Reporting/blob/main/Conduct%20an%20Internal%20Security%20Audit/Conducting%20a%20Risk%20Assessment.md"><b>Complete a risk assessment</b></a><br>
 <ul>
   <li>	A risk assessment is used to evaluate identified organizational risks related to budget, controls, internal processes, and external standards (i.e.,   
    regulations). </li>
