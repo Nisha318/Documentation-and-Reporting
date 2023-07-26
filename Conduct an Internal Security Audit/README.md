@@ -17,4 +17,4 @@ Identify the scope of the audit
 	• A mitigation plan is a strategy established to lower the level of risk and potential costs, penalties, or other issues that can negatively affect the organization’s security posture. 
 	
 	Communicate results to stakeholders
-The end result of this process is providing a detailed report of findings, suggested improvements needed to lower the organization's level of risk, and compliance regulations and standards the organization needs to adhere to. ![image](https://github.com/Nisha318/Documentation-and-Reporting/assets/12909665/b6725e5a-9649-4b36-837b-1e4f176d7bbd)
+The end result of this process is providing a detailed report of findings, suggested improvements needed to lower the organization's level of risk, and compliance regulations and standards the organization needs to adhere to.
