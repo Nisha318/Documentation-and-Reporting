@@ -1,21 +1,34 @@
 
-TO: IT Manager, stakeholders 
-FROM: Nisha Prudhomme
-DATE: (Today’s Date)
-SUBJECT: Internal IT audit findings and recommendations
+TO: IT Manager, stakeholders <br>
+FROM: Nisha Prudhomme <br>
+DATE: (Today’s Date) <br>
+SUBJECT: Internal IT audit findings and recommendations <br>
 
-Dear Colleagues,
+<p>
+  
+Dear Colleagues, <br>
 
-Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.
+Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.<br>
 
+</p>
 
-Scope: 
-●	The following systems are in scope: accounting, endpoint detection, firewalls, intrusion detection system, SIEM tool. The systems will be evaluated for:
-○	Current user permissions 
-○	Current implemented controls
-○	Current procedures and protocols
-●	Ensure current user permissions, controls, procedures, and protocols in place align with PCI DSS and GDPR compliance requirements.
-●	Ensure current technology is accounted for both hardware and system access.
+<p>
+  
+<b>Scope: </b>
+
+<ul>
+  
+  <li> The following systems are in scope: accounting, endpoint detection, firewalls, intrusion detection system, SIEM tool. The systems will be evaluated for: </li>
+  <ul>
+  <li> Current user permissions </li>
+  <li> Current implemented controls </li>
+  <li> Current procedures and protocols </li>
+  <li> Ensure current user permissions, controls, procedures, and protocols in place align with PCI DSS and GDPR compliance requirements. </li>
+  <li> Ensure current technology is accounted for both hardware and system access. </li>
+  </ul>  
+</ul>
+
+</p>
 
 
 Goals:
