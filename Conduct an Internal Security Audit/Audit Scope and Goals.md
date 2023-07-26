@@ -1,7 +1,7 @@
 <h3>Botium Toys: Audit scope and goals </h3>
  
 <p>
-<b>Summary:</b>The internal security audit will focus on evaluating Botium Toys' cybersecurity program to assess its effectiveness, alignment with industry standards, and best practices. The audit will encompass various aspects of the organization's security infrastructure, policies, and procedures. The primary objectives of the audit are to identify potential vulnerabilities, especially those classified as "high risk," and to develop mitigation recommendations accordingly. The audit team will thoroughly document their findings and provide detailed remediation plans to address the identified weaknesses.
+<b>Summary:</b> The internal security audit will focus on evaluating Botium Toys' cybersecurity program to assess its effectiveness, alignment with industry standards, and best practices. The audit will encompass various aspects of the organization's security infrastructure, policies, and procedures. The primary objectives of the audit are to identify potential vulnerabilities, especially those classified as "high risk," and to develop mitigation recommendations accordingly. The audit team will thoroughly document their findings and provide detailed remediation plans to address the identified weaknesses.
 </p>
 
 <p>
