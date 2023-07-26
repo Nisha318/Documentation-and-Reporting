@@ -22,10 +22,15 @@ Assets managed by the IT Department include: <br>
 </p>
 
 
-<br>Administrative Controls</b><br>
 
 <h3>Administrative Controls</h3>
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/administrative%20controls.PNG">
 
+<h3>Technical Controls</h3>
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/technical%20controls.PNG">
+
+<h3>Physical Controls</h3>
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/physical%20controls.PNG">
 
 
 
