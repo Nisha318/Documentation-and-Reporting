@@ -33,7 +33,9 @@ Assets managed by the IT Department include: <br>
 
 
 <h3>Compliance Checklist</h3> <br>
-- [x] Task 1
+
+
+
 
 - [ ] Mercury
 - [x] Venus
